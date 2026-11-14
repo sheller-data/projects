@@ -3,3 +3,5 @@ npi,provider_name,role,updated_at
 1002,Dr. Baker,doctor,2026-11-01 09:00:00
 1002,Front Desk,staff,2026-11-02 10:00:00
 1003,Dr. Chen,doctor,2026-11-02 11:00:00
+1004,Dr. Davis,doctor,2026-11-03 09:00:00
+1003,Dr. Chen Jr.,doctor,2026-11-03 10:00:00

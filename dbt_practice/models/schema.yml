@@ -1,0 +1,10 @@
+version: 2
+models:
+  - name: stg_providers
+    columns:
+      - name: npi
+        data_tests: [unique, not_null]
+  - name: silver_providers
+    columns:
+      - name: npi
+        data_tests: [unique, not_null]

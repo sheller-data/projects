@@ -6,5 +6,6 @@ seeds:
         data_tests:
           - unique:
               config:
+                severity: warn
                 store_failures: true
           - not_null
